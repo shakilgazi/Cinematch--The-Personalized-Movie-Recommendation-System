@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Movie Recommendation System
 
 •	TMDB 5000 Movie Datasets were used to make the recommendation system. This project was completed using python and some libraries like pandas and sci kit learn.
 
